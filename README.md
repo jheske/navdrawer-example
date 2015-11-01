@@ -1,5 +1,11 @@
 # Android Navigation Drawer Exercise
 
+This repo was cloned and adapted from this [codepath.com tutorial](https://guides.codepath.com/android/Fragment-Navigation-Drawer "codepath.com tutorial").
+
+The tutorial's starter code can be found on codepath's github [here](https://github.com/codepath/android-navigation-drawer-exercise). 
+
+
+
 Android app to use as the base app for implementing material design style navigation drawer.
 
 <img src="http://i.imgur.com/SSpyxZZ.gif" height="500"/>
